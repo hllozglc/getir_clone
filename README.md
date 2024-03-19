@@ -6,15 +6,10 @@ projemizde getir uygulamasını flutter ile kodladık
 
 ![home](https://github.com/hllozglc/getir_clone/assets/100855750/4a2f65db-1ddd-45b5-aea4-46da39999f31)
 
+![search](https://github.com/hllozglc/getir_clone/assets/100855750/457d3df1-0b3f-4e38-a645-82b254dd410b)
+
+![userr](https://github.com/hllozglc/getir_clone/assets/100855750/86debe4c-3f10-4b25-a8a3-c8b2f3821ebf)
+
+![campaigns](https://github.com/hllozglc/getir_clone/assets/100855750/f7f6d77d-7d3c-4fad-bfdc-89235f9baa74)
 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
