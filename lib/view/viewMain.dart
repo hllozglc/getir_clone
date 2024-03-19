@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
 import 'package:getirclone/constants/colors.dart';
 import 'package:getirclone/main.dart';
+import 'package:getirclone/view/campaigns/viewCampaignsMain.dart';
 import 'package:getirclone/view/home/viewHome.dart';
 import 'package:getirclone/view/search/viewSearch.dart';
 import 'package:getirclone/view/user/viewUser.dart';
@@ -26,7 +27,7 @@ class _MainState extends State<Main> {
       case 3:
         return const User();
       case 4:
-        return const Home();
+        return const CampaignsMain();
       default:
         return const Home();
     }
