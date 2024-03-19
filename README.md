@@ -3,12 +3,8 @@
 projemizde getir uygulamasını flutter ile kodladık
 
 ## Uygulama Görüntüleri
+![home](https://github.com/hllozglc/getir_clone/assets/100855750/5cd3b6ce-1918-47c3-90cc-018a9ccbc9ce)
 
-
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 35 30](https://github.com/hllozglc/getir_clone/assets/100855750/3d4c0677-a330-4ad9-9554-79eca584f11b)
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 35 42](https://github.com/hllozglc/getir_clone/assets/100855750/9a049a50-8ac5-429d-8f5c-09d30cff885a)
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 36 03](https://github.com/hllozglc/getir_clone/assets/100855750/b1164a31-b006-4807-b6e9-aca4fee58a93)
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-20 at 01 36 10](https://github.com/hllozglc/getir_clone/assets/100855750/c68a0cf6-953d-4513-b602-49b729087288)
 
 
 This project is a starting point for a Flutter application.
