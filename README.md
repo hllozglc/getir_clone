@@ -3,7 +3,8 @@
 projemizde getir uygulamasını flutter ile kodladık
 
 ## Uygulama Görüntüleri
-![home](https://github.com/hllozglc/getir_clone/assets/100855750/5cd3b6ce-1918-47c3-90cc-018a9ccbc9ce)
+
+![home](https://github.com/hllozglc/getir_clone/assets/100855750/4a2f65db-1ddd-45b5-aea4-46da39999f31)
 
 
 
