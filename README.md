@@ -1,4 +1,4 @@
-# getirclone
+# Getir Clone app
 
 A new Flutter project.
 
