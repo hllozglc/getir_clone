@@ -1,9 +1,8 @@
 # Getir Clone app
 
-A new Flutter project.
+projemizde getir uygulamasını flutter ile kodladık
 
-
-## Getting Started
+## Uygulama Görüntüleri
 
 This project is a starting point for a Flutter application.
 
